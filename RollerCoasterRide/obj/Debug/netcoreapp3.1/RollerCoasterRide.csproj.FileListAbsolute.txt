@@ -1,0 +1,13 @@
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\bin\Debug\netcoreapp3.1\RollerCoasterRide.exe
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\bin\Debug\netcoreapp3.1\RollerCoasterRide.deps.json
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\bin\Debug\netcoreapp3.1\RollerCoasterRide.runtimeconfig.json
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\bin\Debug\netcoreapp3.1\RollerCoasterRide.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\bin\Debug\netcoreapp3.1\RollerCoasterRide.dll
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\bin\Debug\netcoreapp3.1\RollerCoasterRide.pdb
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\obj\Debug\netcoreapp3.1\RollerCoasterRide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\obj\Debug\netcoreapp3.1\RollerCoasterRide.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\obj\Debug\netcoreapp3.1\RollerCoasterRide.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\obj\Debug\netcoreapp3.1\RollerCoasterRide.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\obj\Debug\netcoreapp3.1\RollerCoasterRide.dll
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\obj\Debug\netcoreapp3.1\RollerCoasterRide.pdb
+C:\Users\areddy1\source\repos\RollerCoasterRide\RollerCoasterRide\obj\Debug\netcoreapp3.1\RollerCoasterRide.genruntimeconfig.cache
